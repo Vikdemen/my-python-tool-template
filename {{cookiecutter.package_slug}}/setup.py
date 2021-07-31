@@ -9,6 +9,6 @@ setup(
     license='MIT',
     author='{{cookiecutter.full_name}}',
     author_email='{{cookiecutter.email}}',
-    description='{{cookicutter.description}}',
+    description='{{cookiecutter.description}}',
     python_requires='>= 3.9'
 )
