@@ -1,3 +1,14 @@
 ##{{cookiecutter.package_name}}
-###What is it?
+###Description
 {{cookiecutter.description}}
+
+###Installation
+TBD
+###Usage
+TBD
+###FAQ
+TBD
+###Contact information
+TBD
+###License
+The MIT License (MIT)
